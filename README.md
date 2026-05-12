@@ -84,7 +84,6 @@ I’m open to frontend roles where I can contribute to:
 
 - GitHub: https://github.com/miraz235
 - LinkedIn: https://www.linkedin.com/in/miraz235/
-- Portfolio: [Add your portfolio URL]
 - Email: miraz235.work@gmail.com
 
 ## Notes
