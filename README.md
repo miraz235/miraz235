@@ -1,6 +1,6 @@
 # Asraful Karim
 
-Senior Frontend Engineer with 15+ years of experience building scalable, user-centric web applications, dashboards, and product interfaces.
+Senior Frontend Engineer with 10+ years of experience building scalable, user-centric web applications, dashboards, and product interfaces.
 
 I specialize in React, TypeScript, Angular, performance optimization, reusable UI architecture, and modern frontend engineering practices. I also work across FastAPI and MongoDB when building full product workflows.
 
@@ -16,7 +16,7 @@ I specialize in React, TypeScript, Angular, performance optimization, reusable U
 
 ## Career highlights
 
-- 15+ years building web products and frontend systems
+- 10+ years building web products and frontend systems
 - Improved application load time by 40% in production work
 - Helped reduce post-release bugs by 30% through code quality practices
 - Built and maintained complex enterprise applications and dashboards
@@ -82,6 +82,7 @@ I’m open to frontend roles where I can contribute to:
 
 ## Connect
 
+- Portfolio: https://miraz235.github.io
 - GitHub: https://github.com/miraz235
 - LinkedIn: https://www.linkedin.com/in/miraz235/
 - Email: miraz235.work@gmail.com
